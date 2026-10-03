@@ -1,5 +1,6 @@
 data/
 __MACOSX/
 .ipynb_checkpoints/
+.vscode/
 
 *checkpoint.ipynb

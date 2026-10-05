@@ -4,3 +4,4 @@ __MACOSX/
 .vscode/
 
 *checkpoint.ipynb
+*.pth

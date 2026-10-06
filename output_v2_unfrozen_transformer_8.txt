@@ -1,0 +1,21 @@
+Iter: 0    Epoch: 106
+train_CE: 0.1252
+val_CE: 0.1246    recorded_best_val_CE: 0.1231
+-----------------------
+Iter: 1    Epoch: 107
+train_CE: 0.1068
+val_CE: 0.1214    recorded_best_val_CE: 0.1231
+Saved as best
+-----------------------
+Iter: 2    Epoch: 108
+train_CE: 0.0964
+val_CE: 0.1232    recorded_best_val_CE: 0.1214
+-----------------------
+Iter: 3    Epoch: 109
+train_CE: 0.0903
+val_CE: 0.1215    recorded_best_val_CE: 0.1214
+-----------------------
+Iter: 4    Epoch: 110
+train_CE: 0.0843
+val_CE: 0.1292    recorded_best_val_CE: 0.1214
+-----------------------
